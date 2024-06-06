@@ -1,0 +1,5 @@
+const caixaPrincipal
+const caixaPerguntas
+const caixaAlterntiva
+const caixaResultado
+const caixaResultado
